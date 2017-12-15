@@ -1,0 +1,9 @@
+html{
+	width: 100%;
+}
+
+body{
+	display: block;
+	max-width: 960px;
+	margin: auto;
+}

@@ -1,0 +1,16 @@
+.navbar{
+  width: 100%;
+  text-align: center;
+  color: #fff;
+	
+  margin-bottom: 50px;
+}
+
+.navbar li{
+	display: inline-block;
+	width: 400px;
+	
+}
+.score{
+	text-align: right
+}

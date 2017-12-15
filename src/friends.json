@@ -1,0 +1,75 @@
+[
+	{
+		"id": 1,
+		"name": "Bart",
+		"image": "./images/Bart_Simpson_200px.png",
+		"random": 0
+
+	},
+	{
+		"id": 2,
+		"name": "Montgomery",
+		"image": "./images/Charles_Montgomery_Burns.png",
+		"random": 0
+	},
+	{
+		"id": 3,
+		"name": "Chief_Wiggum",
+		"image": "./images/245px-Chief_Wiggum.png",
+		"random": 0
+	},
+	{
+		"id": 4,
+		"name": "Marge",
+		"image": "./images/Marge.png",
+		"random": 0
+	},
+	{
+		"id": 5,
+		"name": "Abraham_Simpson",
+		"image": "./images/Abraham_Simpson.png",
+		"random": 0
+	},
+	{
+		"id": 6,
+		"name": "Fat_Tony",
+		"image": "./images/Fat_Tony.png",
+		"random": 0
+	},
+	{
+		"id": 7,
+		"name": "Krusty-the-Clown",
+		"image": "/images/Krusty-the-Clown-psd86491.png",
+		"random": 0
+	},
+	{
+		"id": 8,
+		"name": "Homer_Simpson",
+		"image": "/images/Homer_Simpson.png",
+		"random": 0
+	},
+	{
+		"id": 9,
+		"name": "Lisa_Simpson",
+		"image": "/images/Lisa_Simpson.png",
+		"random": 0
+	},
+	{
+		"id": 10,
+		"name": "Maggie_Simpson",
+		"image": "/images/Maggie_Simpson.png",
+		"random": 0
+	},
+	{
+		"id": 11,
+		"name": "Ned_Flanders",
+		"image": "/images/Ned_Flanders.png",
+		"random": 0
+	},
+	{
+		"id": 12,
+		"name": "ralph_wiggum",
+		"image": "./images/The_simpsons_ralph_wiggum-1-.png",
+		"random": 0
+	}
+]

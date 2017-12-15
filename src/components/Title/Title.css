@@ -1,0 +1,17 @@
+.jumbotron {
+	width: 100%;
+	height: 330px;
+	text-align: center;
+	color: #ff005a;
+	background-image: url(/../../images/bg.jpg);
+	font-weight: 900;
+	font-size: 1.5em;
+	text-shadow: 2px 2px 8px #FFF;
+	font-family: 'Pangolin', cursive;
+}
+.container h1{
+	font-weight: 900;
+	font-size: 4em;
+	font-family: 'Pangolin', cursive;
+	
+}
