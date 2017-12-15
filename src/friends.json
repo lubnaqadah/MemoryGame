@@ -39,31 +39,31 @@
 	{
 		"id": 7,
 		"name": "Krusty-the-Clown",
-		"image": "/images/Krusty-the-Clown-psd86491.png",
+		"image": "./images/Krusty-the-Clown-psd86491.png",
 		"random": 0
 	},
 	{
 		"id": 8,
 		"name": "Homer_Simpson",
-		"image": "/images/Homer_Simpson.png",
+		"image": "./images/Homer_Simpson.png",
 		"random": 0
 	},
 	{
 		"id": 9,
 		"name": "Lisa_Simpson",
-		"image": "/images/Lisa_Simpson.png",
+		"image": "./images/Lisa_Simpson.png",
 		"random": 0
 	},
 	{
 		"id": 10,
 		"name": "Maggie_Simpson",
-		"image": "/images/Maggie_Simpson.png",
+		"image": "./images/Maggie_Simpson.png",
 		"random": 0
 	},
 	{
 		"id": 11,
 		"name": "Ned_Flanders",
-		"image": "/images/Ned_Flanders.png",
+		"image": "./images/Ned_Flanders.png",
 		"random": 0
 	},
 	{
