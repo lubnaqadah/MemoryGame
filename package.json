@@ -15,7 +15,7 @@
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build"
 	},
-	"homepage": "https://lubnaqadah.github.io/clickyGame/",
+	"homepage": "https://lubnaqadah.github.io/MemoryGame/",
 	"devDependencies": {
 		"gh-pages": "^1.1.0"
 	}
